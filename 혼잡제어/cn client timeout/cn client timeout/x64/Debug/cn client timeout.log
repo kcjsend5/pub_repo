@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\kcjse\source\repos\cn client timeout\cn client timeout\FileName.c(65,62): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kcjse\source\repos\cn client timeout\cn client timeout\FileName.c(41,35): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  cn client timeout.vcxproj -> C:\Users\kcjse\source\repos\cn client timeout\x64\Debug\cn client timeout.exe
